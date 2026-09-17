@@ -1,0 +1,237 @@
+[
+  {
+    "id": 1789217637081,
+    "type": "PDF",
+    "requirement": "SAMPLE / DEMONSTRATION TENDER - NOT AN OFFICIAL GOVERNMENT DOCUMENT Page 1\nGOVERNMENT PROCUREMENT SIMULATION\nProcurement of High Strength Deformed Steel Bars for RCC Construction\nTender Reference GOV-STEEL-2026-031\nProcuring Department Public Works C",
+    "fileName": "Sample_Tender_Reinforcement_Steel_Fe500.pdf",
+    "standard": "IS 1786:2008",
+    "match": 42,
+    "createdAt": "2026-09-12T12:53:57.081Z"
+  },
+  {
+    "id": 1789217476433,
+    "type": "Text",
+    "requirement": "hospital beds",
+    "standard": "IS 7378:1974",
+    "match": 53,
+    "createdAt": "2026-09-12T12:51:16.433Z"
+  },
+  {
+    "id": 1789214830226,
+    "type": "Text",
+    "requirement": "hospital beds",
+    "standard": "IS 7378:1974",
+    "match": 53,
+    "createdAt": "2026-09-12T12:07:10.226Z"
+  },
+  {
+    "id": 1789186081584,
+    "type": "PDF",
+    "requirement": "SAMPLE / DEMONSTRATION TENDER - NOT AN OFFICIAL GOVERNMENT DOCUMENT Page 1\nGOVERNMENT PROCUREMENT SIMULATION\nSupply of XLPE Insulated PVC Sheathed Power Cables for Distribution Works\nTender Reference GOV-CABLE-2026-022\nProcuring Department Electrical",
+    "fileName": "Sample_Tender_Electrical_Cables.pdf",
+    "standard": "IS 3975:1999",
+    "match": 33,
+    "createdAt": "2026-09-12T04:08:01.584Z"
+  },
+  {
+    "id": 1789141574165,
+    "type": "Text",
+    "requirement": "hospital beds",
+    "standard": "IS 7378:1974",
+    "match": 53,
+    "createdAt": "2026-09-11T15:46:14.165Z"
+  },
+  {
+    "id": 1789140192458,
+    "type": "Text",
+    "requirement": "led bulb",
+    "standard": "IS 16102 (Part 1) (2026)",
+    "match": 48,
+    "createdAt": "2026-09-11T15:23:12.458Z"
+  },
+  {
+    "id": 1789138216804,
+    "type": "Text",
+    "requirement": "led street light",
+    "standard": "IS 16107 : Part 2 : Sec 2 (2017)",
+    "match": 95,
+    "createdAt": "2026-09-11T14:50:16.804Z"
+  },
+  {
+    "id": 1789137497442,
+    "type": "PDF",
+    "requirement": "-- 1 of 2 --\n\n\n\n-- 2 of 2 --",
+    "fileName": "cts finanicial preriod.pdf",
+    "standard": "Not available",
+    "match": 0,
+    "createdAt": "2026-09-11T14:38:17.443Z"
+  },
+  {
+    "id": 1789129380635,
+    "type": "Text",
+    "requirement": "wood",
+    "standard": "IS 3087 : 2005",
+    "match": 53,
+    "createdAt": "2026-09-11T12:23:00.635Z"
+  },
+  {
+    "id": 1788878964758,
+    "type": "Text",
+    "requirement": "OPC 53 grade cement for structural construction",
+    "standard": "IS 12269:2015",
+    "match": 56,
+    "createdAt": "2026-09-08T14:49:24.758Z"
+  },
+  {
+    "id": 1788878752545,
+    "type": "Text",
+    "requirement": "led street light",
+    "standard": "IS 16107 : Part 2 : Sec 2 (2017)",
+    "match": 95,
+    "createdAt": "2026-09-08T14:45:52.545Z"
+  },
+  {
+    "id": 1788878091757,
+    "type": "Text",
+    "requirement": "100W LED street lights for outdoor municipal roads",
+    "standard": "IS 16107 : Part 2 : Sec 2 (2017)",
+    "match": 67,
+    "createdAt": "2026-09-08T14:34:51.757Z"
+  },
+  {
+    "id": 1788876985197,
+    "type": "Text",
+    "requirement": "100W LED street lights for outdoor municipal roads",
+    "standard": "IS 16107 : Part 2 : Sec 2 (2017)",
+    "match": 67,
+    "createdAt": "2026-09-08T14:16:25.197Z"
+  },
+  {
+    "id": 1788876929227,
+    "type": "Text",
+    "requirement": "hospital bed",
+    "standard": "IS 7378:1974",
+    "match": 53,
+    "createdAt": "2026-09-08T14:15:29.227Z"
+  },
+  {
+    "id": 1788876911406,
+    "type": "Text",
+    "requirement": "hospital bed",
+    "standard": "IS 7378:1974",
+    "match": 53,
+    "createdAt": "2026-09-08T14:15:11.406Z"
+  },
+  {
+    "id": 1788876877459,
+    "type": "Text",
+    "requirement": "led street light",
+    "standard": "IS 16107 : Part 2 : Sec 2 (2017)",
+    "match": 95,
+    "createdAt": "2026-09-08T14:14:37.459Z"
+  },
+  {
+    "id": 1788876764435,
+    "type": "Text",
+    "requirement": "Fe 500 deformed steel bars for concrete reinforcement",
+    "standard": "IS 1786:2008",
+    "match": 83,
+    "createdAt": "2026-09-08T14:12:44.435Z"
+  },
+  {
+    "id": 1788876757804,
+    "type": "Text",
+    "requirement": "100W LED street lights for outdoor municipal roads",
+    "standard": "IS 16107 : Part 2 : Sec 2 (2017)",
+    "match": 67,
+    "createdAt": "2026-09-08T14:12:37.804Z"
+  },
+  {
+    "id": 1788876667694,
+    "type": "Text",
+    "requirement": "Fe 500 deformed steel bars for concrete reinforcement",
+    "standard": "IS 1786:2008",
+    "match": 83,
+    "createdAt": "2026-09-08T14:11:07.694Z"
+  },
+  {
+    "id": 1788876654732,
+    "type": "Text",
+    "requirement": "100W LED street lights for outdoor municipal roads",
+    "standard": "IS 16107 : Part 2 : Sec 2 (2017)",
+    "match": 67,
+    "createdAt": "2026-09-08T14:10:54.732Z"
+  },
+  {
+    "id": 1788876536106,
+    "type": "Text",
+    "requirement": "led",
+    "standard": "IS 16103 : Part 1 (2025)",
+    "match": 50,
+    "createdAt": "2026-09-08T14:08:56.106Z"
+  },
+  {
+    "id": 1788876202728,
+    "type": "Text",
+    "requirement": "led",
+    "standard": "IS 2062:2011",
+    "match": 87,
+    "createdAt": "2026-09-08T14:03:22.728Z"
+  },
+  {
+    "id": 1788875274419,
+    "type": "Text",
+    "requirement": "led",
+    "standard": "IS 2062:2011",
+    "match": 87,
+    "createdAt": "2026-09-08T13:47:54.419Z"
+  },
+  {
+    "id": 1788199014815,
+    "type": "Text",
+    "requirement": "led",
+    "standard": "Not available",
+    "match": 0,
+    "createdAt": "2026-08-31T17:56:54.815Z"
+  },
+  {
+    "id": 1788062529253,
+    "type": "Text",
+    "requirement": "led bulb",
+    "standard": "Not available",
+    "match": 0,
+    "createdAt": "2026-08-30T04:02:09.253Z"
+  },
+  {
+    "id": 1788062230950,
+    "type": "Text",
+    "requirement": "led bulb What wattage or power rating do you need (e.g. 50W, 100W)? 100W Is this for indoor or outdoor use? outdoor",
+    "standard": "Not available",
+    "match": 0,
+    "createdAt": "2026-08-30T03:57:10.950Z"
+  },
+  {
+    "id": 1788062138959,
+    "type": "Text",
+    "requirement": "led bulb What wattage or power rating do you need (e.g. 50W, 100W)? 100W Is this for indoor or outdoor use? outdoor",
+    "standard": "Not available",
+    "match": 0,
+    "createdAt": "2026-08-30T03:55:38.959Z"
+  },
+  {
+    "id": 1788061977820,
+    "type": "Text",
+    "requirement": "led bulb What wattage or power rating do you need (e.g. 50W, 100W)? 100W Is this for indoor or outdoor use? outdoor",
+    "standard": "Not available",
+    "match": 0,
+    "createdAt": "2026-08-30T03:52:57.820Z"
+  },
+  {
+    "id": 1788061828129,
+    "type": "Text",
+    "requirement": "led bulb",
+    "standard": "Not available",
+    "match": 0,
+    "createdAt": "2026-08-30T03:50:28.129Z"
+  }
+]
