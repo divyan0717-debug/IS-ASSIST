@@ -42,7 +42,7 @@ import translations from "./translations";
 import AIChatbot from "./components/AIChatbot";
 import CertificationJourney from "./certification/CertificationJourney";
 
-const API_BASE = "http://localhost:5000/api";
+const API_BASE = "https://is-assist.onrender.com/api";
 
 const extractPowerFromText = (text = "") => {
   const match = text.match(/\b\d+(?:\.\d+)?\s?(?:W|kW)\b/i);
